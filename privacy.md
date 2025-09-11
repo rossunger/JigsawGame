@@ -1,0 +1,2 @@
+This game uses the device camera only when you're choosing to uplaod an image to use as the jigsaw puzzle.
+All images are stored in the apps local folder on your device, with encryption, and are deleted when you delete the app. No images are collected or shared.
